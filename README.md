@@ -5,7 +5,7 @@
 I build tools that carry context: between AI sessions, across software
 ecosystems, and from a lecture hall to the week you actually sit the exam.
 
-First-year Computer Science student at Edinburgh Napier University. Founder of
+First-year Software Engineering student at Edinburgh Napier University. Founder of
 AcronIQ Limited. Currently building a small freelance web design practice
 alongside my own projects.
 
@@ -80,7 +80,7 @@ R2, Clerk, Vitest and pgTAP.
 ### Background
 
 I taught myself HTML, CSS and JavaScript at school and never really stopped. I
-am now reading Computer Science at Edinburgh Napier, which is filling in the
+am now studying Software Engineering at Edinburgh Napier, which is filling in the
 parts I had been working around: systems, architecture, and how the machine
 actually behaves underneath the framework.
 
