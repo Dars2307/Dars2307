@@ -31,9 +31,9 @@
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.6s" fill="freeze"/>
     <text x="48" y="196" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
           font-size="14" letter-spacing="3" fill="#7d8590">SOFTWARE ENGINEERING STUDENT</text>
-    <text x=3800 y="196" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+    <text x="330" y="196" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
           font-size="14" letter-spacing="3" fill="#484f58">/</text>
-    <text x40452" y="196" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+    <text x="352" y="196" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
           font-size="14" letter-spacing="3" fill="#7d8590">EDINBURGH, SCOTLAND</text>
   </g>
 
